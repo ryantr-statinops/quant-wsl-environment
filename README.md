@@ -11,15 +11,8 @@ A high-performance development workspace optimized for quantitative finance and 
 
 ## 📸 Workspace Preview
 
-> **TIP**
-> 
-> **SCREENSHOT INSTRUCTION 1:**
-> 
-> Khang mở tmux lên, chia đôi màn hình (Split Pane):
-> - Bên trái chạy một đoạn script backtest nhỏ bằng vectorbt hoặc in dữ liệu vnstock.
-> - Bên phải mở btop để hiển thị biểu đồ tài nguyên CPU/RAM hệ thống.
-> 
-> Chụp lại tấm hình đó, đặt tên là `workspace_preview.png` rồi lưu vào thư mục dự án.
+### 2. Không gian làm việc thực tế (Tmux + Code + Btop)
+![Workspace Preview](images/workspace_preview.png)
 
 ## 📐 Hybrid Architecture
 
@@ -96,13 +89,8 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-> **NOTE**
-> 
-> **SCREENSHOT INSTRUCTION 2:**
-> 
-> Sau khi Khang chạy lệnh `./setup.sh` thành công, terminal sẽ in ra các dòng thông báo log có màu kèm dòng THIẾT LẬP HOÀN TẤT!.
-> 
-> Hãy chụp lại màn hình terminal lúc đó, đặt tên là `setup_log.png` để người xem hình dung được quá trình cài đặt tự động mượt mà như thế nào.
+>### 1. Nhật ký cấu hình môi trường thành công (`setup.sh`)
+![Setup Log](images/setup_log.png)
 
 ### Step 3: Apply Changes & Verify
 
