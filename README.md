@@ -138,3 +138,4 @@ micromamba list
 ## License
 
 Distributed under the MIT License. See LICENSE for more information.
+![License: MIT](https://img.shields.shields.shields.shields.io/badge/License-MIT-yellow.svg) ![License: GPL v3](https://img.shields.shields.shields.io/badge/License-GPLv3-blue.svg)
